@@ -4,6 +4,7 @@
 #include <time.h>
 
     //Algoritmo de Fatoração por Cholesky
+	// Trabalho da Disciplina de Cálculo Numérico
  
 int main(){
 
